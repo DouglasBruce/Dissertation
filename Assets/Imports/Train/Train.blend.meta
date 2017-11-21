@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 5de187b965b2d1944b9cbd15730b608e
+timeCreated: 1485459887
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 33
+    100002: 33_001
+    100004: 33_002
+    100006: 33_003
+    100008: CircleGuide
+    100010: ConnectingRod
+    100012: Connection_Point1
+    100014: Connection_Point2
+    100016: Connection_Point3
+    100018: CowCatcher
+    100020: Detail
+    100022: DriveShaft
+    100024: Empty
+    100026: Ladders
+    100028: Lamp
+    100030: Linkage
+    100032: LowerPiston
+    100034: MiddleWheel
+    100036: MiddleWheel_001
+    100038: MiddleWheel_002
+    100040: MiddleWheel_003
+    100042: Piston
+    100044: Piston_001
+    100046: PistonRod
+    100048: PressureTank
+    100050: PressureTank2
+    100052: RearLamps
+    100054: Roof
+    100056: SmallWheel
+    100058: SmallWheel2
+    100060: //RootNode
+    100062: TrainBody
+    100064: UpperPiston
+    400000: 33
+    400002: 33_001
+    400004: 33_002
+    400006: 33_003
+    400008: CircleGuide
+    400010: ConnectingRod
+    400012: Connection_Point1
+    400014: Connection_Point2
+    400016: Connection_Point3
+    400018: CowCatcher
+    400020: Detail
+    400022: DriveShaft
+    400024: Empty
+    400026: Ladders
+    400028: Lamp
+    400030: Linkage
+    400032: LowerPiston
+    400034: MiddleWheel
+    400036: MiddleWheel_001
+    400038: MiddleWheel_002
+    400040: MiddleWheel_003
+    400042: Piston
+    400044: Piston_001
+    400046: PistonRod
+    400048: PressureTank
+    400050: PressureTank2
+    400052: RearLamps
+    400054: Roof
+    400056: SmallWheel
+    400058: SmallWheel2
+    400060: //RootNode
+    400062: TrainBody
+    400064: UpperPiston
+    2300000: 33
+    2300002: 33_001
+    2300004: 33_002
+    2300006: 33_003
+    2300008: CircleGuide
+    2300010: ConnectingRod
+    2300012: CowCatcher
+    2300014: Detail
+    2300016: DriveShaft
+    2300018: Ladders
+    2300020: Lamp
+    2300022: Linkage
+    2300024: LowerPiston
+    2300026: MiddleWheel
+    2300028: MiddleWheel_001
+    2300030: MiddleWheel_002
+    2300032: MiddleWheel_003
+    2300034: Piston
+    2300036: Piston_001
+    2300038: PistonRod
+    2300040: PressureTank
+    2300042: PressureTank2
+    2300044: RearLamps
+    2300046: Roof
+    2300048: SmallWheel
+    2300050: SmallWheel2
+    2300052: TrainBody
+    2300054: UpperPiston
+    3300000: 33
+    3300002: 33_001
+    3300004: 33_002
+    3300006: 33_003
+    3300008: CircleGuide
+    3300010: ConnectingRod
+    3300012: CowCatcher
+    3300014: Detail
+    3300016: DriveShaft
+    3300018: Ladders
+    3300020: Lamp
+    3300022: Linkage
+    3300024: LowerPiston
+    3300026: MiddleWheel
+    3300028: MiddleWheel_001
+    3300030: MiddleWheel_002
+    3300032: MiddleWheel_003
+    3300034: Piston
+    3300036: Piston_001
+    3300038: PistonRod
+    3300040: PressureTank
+    3300042: PressureTank2
+    3300044: RearLamps
+    3300046: Roof
+    3300048: SmallWheel
+    3300050: SmallWheel2
+    3300052: TrainBody
+    3300054: UpperPiston
+    4300000: Ladders
+    4300002: TrainBody
+    4300004: 33
+    4300006: Detail
+    4300008: CowCatcher
+    4300010: 33_001
+    4300012: 33_003
+    4300014: 33_002
+    4300016: RearLamps
+    4300018: PressureTank
+    4300020: MiddleWheel
+    4300022: CircleGuide
+    4300024: DriveShaft
+    4300026: PistonRod
+    4300028: LowerPiston
+    4300030: Linkage
+    4300032: ConnectingRod
+    4300034: MiddleWheel_003
+    4300036: SmallWheel
+    4300038: MiddleWheel_001
+    4300040: MiddleWheel_002
+    4300042: SmallWheel2
+    4300044: Roof
+    4300046: Lamp
+    4300048: PressureTank2
+    4300050: UpperPiston
+    4300052: Piston
+    4300054: Piston_001
+    7400000: Moving
+    7400002: Idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Moving
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Connection_Point1
+        weight: 1
+      - path: Connection_Point1/UpperPiston
+        weight: 1
+      - path: Connection_Point1/UpperPiston/Piston
+        weight: 1
+      - path: Connection_Point1/UpperPiston/Piston_001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Ladders
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: MiddleWheel
+        weight: 1
+      - path: MiddleWheel/CircleGuide
+        weight: 1
+      - path: MiddleWheel/Connection_Point2
+        weight: 1
+      - path: MiddleWheel/Connection_Point2/ConnectingRod
+        weight: 1
+      - path: MiddleWheel/DriveShaft
+        weight: 1
+      - path: MiddleWheel/DriveShaft/Linkage
+        weight: 1
+      - path: MiddleWheel/DriveShaft/PistonRod
+        weight: 1
+      - path: MiddleWheel/DriveShaft/PistonRod/LowerPiston
+        weight: 1
+      - path: MiddleWheel/DriveShaft/PistonRod/LowerPiston/Connection_Point3
+        weight: 1
+      - path: MiddleWheel_001
+        weight: 1
+      - path: MiddleWheel_002
+        weight: 1
+      - path: MiddleWheel_003
+        weight: 1
+      - path: PressureTank
+        weight: 1
+      - path: PressureTank2
+        weight: 1
+      - path: Roof
+        weight: 1
+      - path: SmallWheel
+        weight: 1
+      - path: SmallWheel2
+        weight: 1
+      - path: TrainBody
+        weight: 1
+      - path: TrainBody/33
+        weight: 1
+      - path: TrainBody/33_001
+        weight: 1
+      - path: TrainBody/33_002
+        weight: 1
+      - path: TrainBody/33_003
+        weight: 1
+      - path: TrainBody/CowCatcher
+        weight: 1
+      - path: TrainBody/Detail
+        weight: 1
+      - path: TrainBody/RearLamps
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 0.1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Connection_Point1
+        weight: 1
+      - path: Connection_Point1/UpperPiston
+        weight: 1
+      - path: Connection_Point1/UpperPiston/Piston
+        weight: 1
+      - path: Connection_Point1/UpperPiston/Piston_001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Ladders
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: MiddleWheel
+        weight: 1
+      - path: MiddleWheel/CircleGuide
+        weight: 1
+      - path: MiddleWheel/Connection_Point2
+        weight: 1
+      - path: MiddleWheel/Connection_Point2/ConnectingRod
+        weight: 1
+      - path: MiddleWheel/DriveShaft
+        weight: 1
+      - path: MiddleWheel/DriveShaft/Linkage
+        weight: 1
+      - path: MiddleWheel/DriveShaft/PistonRod
+        weight: 1
+      - path: MiddleWheel/DriveShaft/PistonRod/LowerPiston
+        weight: 1
+      - path: MiddleWheel/DriveShaft/PistonRod/LowerPiston/Connection_Point3
+        weight: 1
+      - path: MiddleWheel_001
+        weight: 1
+      - path: MiddleWheel_002
+        weight: 1
+      - path: MiddleWheel_003
+        weight: 1
+      - path: PressureTank
+        weight: 1
+      - path: PressureTank2
+        weight: 1
+      - path: Roof
+        weight: 1
+      - path: SmallWheel
+        weight: 1
+      - path: SmallWheel2
+        weight: 1
+      - path: TrainBody
+        weight: 1
+      - path: TrainBody/33
+        weight: 1
+      - path: TrainBody/33_001
+        weight: 1
+      - path: TrainBody/33_002
+        weight: 1
+      - path: TrainBody/33_003
+        weight: 1
+      - path: TrainBody/CowCatcher
+        weight: 1
+      - path: TrainBody/Detail
+        weight: 1
+      - path: TrainBody/RearLamps
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

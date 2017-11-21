@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 4ab3de4b88d53c34faa6dd23a7cb8fd3
+timeCreated: 1490818244
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bolts.012
+    100002: Bolts.013
+    100004: Bolts.014
+    100006: Bolts.015
+    100008: Bolts.024
+    100010: Bolts.025
+    100012: Bolts.026
+    100014: Bolts.027
+    100016: Bolts.028
+    100018: Bolts.029
+    100020: Bolts.033
+    100022: Bolts.034
+    100024: Bracket.012
+    100026: Bracket.013
+    100028: Bracket.014
+    100030: Bracket.015
+    100032: Bracket.024
+    100034: Bracket.025
+    100036: Bracket.026
+    100038: Bracket.027
+    100040: Bracket.028
+    100042: Bracket.030
+    100044: Bracket.033
+    100046: Bracket.035
+    100048: SteelGirder.003
+    100050: SteelGirder.006
+    100052: SteelGirder.007
+    100054: SteelGirder.008
+    100056: //RootNode
+    400000: Bolts.012
+    400002: Bolts.013
+    400004: Bolts.014
+    400006: Bolts.015
+    400008: Bolts.024
+    400010: Bolts.025
+    400012: Bolts.026
+    400014: Bolts.027
+    400016: Bolts.028
+    400018: Bolts.029
+    400020: Bolts.033
+    400022: Bolts.034
+    400024: Bracket.012
+    400026: Bracket.013
+    400028: Bracket.014
+    400030: Bracket.015
+    400032: Bracket.024
+    400034: Bracket.025
+    400036: Bracket.026
+    400038: Bracket.027
+    400040: Bracket.028
+    400042: Bracket.030
+    400044: Bracket.033
+    400046: Bracket.035
+    400048: SteelGirder.003
+    400050: SteelGirder.006
+    400052: SteelGirder.007
+    400054: SteelGirder.008
+    400056: //RootNode
+    2300000: Bolts.012
+    2300002: Bolts.013
+    2300004: Bolts.014
+    2300006: Bolts.015
+    2300008: Bolts.024
+    2300010: Bolts.025
+    2300012: Bolts.026
+    2300014: Bolts.027
+    2300016: Bolts.028
+    2300018: Bolts.029
+    2300020: Bolts.033
+    2300022: Bolts.034
+    2300024: Bracket.012
+    2300026: Bracket.013
+    2300028: Bracket.014
+    2300030: Bracket.015
+    2300032: Bracket.024
+    2300034: Bracket.025
+    2300036: Bracket.026
+    2300038: Bracket.027
+    2300040: Bracket.028
+    2300042: Bracket.030
+    2300044: Bracket.033
+    2300046: Bracket.035
+    2300048: SteelGirder.003
+    2300050: SteelGirder.006
+    2300052: SteelGirder.007
+    2300054: SteelGirder.008
+    2300056: //RootNode
+    3300000: Bolts.012
+    3300002: Bolts.013
+    3300004: Bolts.014
+    3300006: Bolts.015
+    3300008: Bolts.024
+    3300010: Bolts.025
+    3300012: Bolts.026
+    3300014: Bolts.027
+    3300016: Bolts.028
+    3300018: Bolts.029
+    3300020: Bolts.033
+    3300022: Bolts.034
+    3300024: Bracket.012
+    3300026: Bracket.013
+    3300028: Bracket.014
+    3300030: Bracket.015
+    3300032: Bracket.024
+    3300034: Bracket.025
+    3300036: Bracket.026
+    3300038: Bracket.027
+    3300040: Bracket.028
+    3300042: Bracket.030
+    3300044: Bracket.033
+    3300046: Bracket.035
+    3300048: SteelGirder.003
+    3300050: SteelGirder.006
+    3300052: SteelGirder.007
+    3300054: SteelGirder.008
+    3300056: //RootNode
+    4300000: SteelSupport
+    4300002: SteelGirder.003
+    4300004: Bracket.012
+    4300006: Bolts.012
+    4300008: Bracket.013
+    4300010: Bolts.013
+    4300012: Bracket.014
+    4300014: Bolts.014
+    4300016: Bracket.015
+    4300018: Bolts.015
+    4300020: SteelGirder.006
+    4300022: Bracket.024
+    4300024: Bolts.024
+    4300026: Bracket.025
+    4300028: Bolts.025
+    4300030: Bracket.026
+    4300032: Bolts.026
+    4300034: Bracket.027
+    4300036: Bolts.027
+    4300038: SteelGirder.007
+    4300040: Bracket.028
+    4300042: Bolts.028
+    4300044: Bracket.030
+    4300046: Bolts.029
+    4300048: SteelGirder.008
+    4300050: Bracket.033
+    4300052: Bolts.033
+    4300054: Bracket.035
+    4300056: Bolts.034
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
